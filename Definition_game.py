@@ -65,3 +65,6 @@ def play_round():
             break
         else:
             print('try again!')
+
+
+game()            

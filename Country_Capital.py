@@ -48,3 +48,6 @@ def play_round():
             else:
                 print('\nTry again! Hint: it starts with the letter %s'\
                     '\nOr say "NO" if you want to see the answer)' %cap[0])
+
+
+game()                
